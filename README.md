@@ -1,0 +1,2 @@
+# typescirpt
+estudio typescript
